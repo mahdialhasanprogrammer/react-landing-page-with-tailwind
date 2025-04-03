@@ -1,6 +1,10 @@
+/* import poppins font in google font  */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@0,600;0,800&display=swap");
 @import "tailwindcss";
+
 @theme {
-  --font-display: "Poppins", "sans-serif";
+  --font-poppins: "Poppins", "sans-serif";
   --color-primary: #d01c28;
+  --color-secondary: #5a5959;
   /* ... */
 }
